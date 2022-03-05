@@ -2,7 +2,7 @@
 headCount=0
 tailCount=0
 
-for (( i=0; i<5; i++ )) 
+for (( i=0; i<21; i++ )) 
 do
         if( $i%2=0 )
 
